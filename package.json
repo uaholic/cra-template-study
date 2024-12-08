@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-study",
+  "version": "0.0.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "My base react-study template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uaholic/cra-template-study.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/uaholic/cra-template-study/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
